@@ -1,26 +1,3 @@
-<head>
-
- <style>
-      body {
-        margin: 0;
-        padding: 0;
-        background-color: #000000;
-      }
-      video {
-        position: fixed;
-        top: 50%;
-        left: 50%;
-        min-width: 100%;
-        min-height: 100%;
-        width: auto;
-        height: auto;
-        z-index: -1;
-        transform: translateX(-50%) translateY(-50%);
-        opacity: 0.6;
-      }
-    </style>
-
-</head>
 
 <video autoplay muted loop>
       <source src="https://cdn.videvo.net/videvo_files/video/free/2013-07/small_watermarked/Abstract_Rotating_Cubes_preview.webm" type="video/webm">
