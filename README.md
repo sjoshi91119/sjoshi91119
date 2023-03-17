@@ -1,3 +1,4 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sjoshi91119)](https://github.com/sjoshi91119/github-readme-stats)
 <h1 align="center">Hi 👋, I'm Shubham Joshi</h1>
 <h3 align="center">I am currently learning Front-end Development and enthusiastic about collaborating on projects.</h3>
 
