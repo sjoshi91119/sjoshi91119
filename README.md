@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sjoshi91119&label=Profile%20views&color=f0aa14&style=plastic" alt="sjoshi91119" /> </p>
 
-- 🔭 I’m currently working on ** My Own Food delivery Website**
+- 🔭 I’m currently working on **My Own Food delivery Website**
 
-- 🌱 I’m currently learning **Javascript, React**
+- 🌱 I’m currently learning **Advanced Javascript, React**
 
 - 📫 How to reach me **sjoshi91119@gmail.com**
 
